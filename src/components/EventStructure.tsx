@@ -211,6 +211,19 @@ const EventStructure = () => {
               ))}
             </ul>
           </div>
+
+          {/* Submit Button */}
+          <div className="mt-8 text-center">
+            <a
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="glow-btn inline-flex items-center gap-2 px-8 py-4 rounded-full text-primary-foreground font-semibold text-lg"
+            >
+              <ClipboardList className="w-5 h-5" />
+              Submit Round 1 via Google Form
+            </a>
+          </div>
         </div>
 
         {/* Round 2 Card */}
