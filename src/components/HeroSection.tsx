@@ -17,6 +17,8 @@ const HeroSection = () => {
             className="mx-auto h-28 sm:h-36 md:h-40 w-auto drop-shadow-[0_0_25px_hsla(152,76%,36%,0.4)] transition-all duration-500 hover:drop-shadow-[0_0_35px_hsla(152,76%,36%,0.6)]"
           />
         </div>
+        
+        
 
         {/* College Name */}
         <div className="mb-6 animate-fade-in" style={{ animationDelay: "0.15s" }}>
